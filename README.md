@@ -11,7 +11,7 @@ Tkinterを用いて、丁半を判定するプログラムを作成する。
 4. ダウンロードされたzipファイルをデスクトップへ移動
 5. zipファイルをダブルクリック
 6. ターミナルを開く。
-7. ターミナルを活用して、zipを展開して生成されたフォルダへ移動する。($ cd Desktop/tkinter-tyo-han-gui-master)
+7. ターミナルを活用して、zipを展開して生成されたフォルダへ移動する。(`$ cd Desktop/tkinter-tyo-han-gui-master`)
 8. `$ python main.py`を実行する。
 9. 動作確認を行う。
 
